@@ -5,6 +5,8 @@
 **Developer in progress...**
 
 Atualmente sou formado na área de TI em Análise e Desenvolvimento de Sistemas, estou cursando Banco de dados, trabalho como aprendiz na área de TI, com experiência na área de projetos e portfólio e atualmente na área de Desenvolvimento plataforma e gerenciamento da ServiceNow (Governança de TI ) tenho interesse em sempre buscar conhecimento e busco sempre oportunidades de aplicar conhecimentos estratégicos para melhorar processos e resultados.
+ 
+ <a href="https://www.linkedin.com/in/gustavo-machado-18994520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 ---
 
@@ -116,5 +118,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-deSouza-Machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
