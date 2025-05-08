@@ -2,7 +2,7 @@
 
 # 👨🏾‍💻 Gustavo Machado
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor**
 
 Atualmente sou formado na área de TI em Análise e Desenvolvimento de Sistemas, estou cursando Banco de dados, trabalho como aprendiz na área de TI, com experiência na área de projetos e portfólio e atualmente na área de Desenvolvimento plataforma e gerenciamento da ServiceNow (Governança de TI ) tenho interesse em sempre buscar conhecimento e busco sempre oportunidades de aplicar conhecimentos estratégicos para melhorar processos e resultados.
 
