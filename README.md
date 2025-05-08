@@ -1,6 +1,6 @@
-## Olá, Eu sou o Gustvavo Machado, Seja Bem-Vindo ao meu perfil!👋🏾
+## Olá, Seja Bem-Vindo ao meu perfil!👋🏾
 
-# 👨🏾‍💻 Gustavo Machado
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Gustavo+Machado!;" />
 
 **Developer in progress...**
 
@@ -119,3 +119,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-deSouza-Machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+![snake gif](https://github.com/Gustavo-deSouza-Machado/Gustavo-deSouza-Machado/blob/output/github-contribution-grid-snake.gif)
+
